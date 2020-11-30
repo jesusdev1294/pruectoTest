@@ -1,0 +1,3 @@
+[submodule "proyectoB"]
+	path = proyectoB
+	url = https://github.com/jesusdev1294/proyectoB
